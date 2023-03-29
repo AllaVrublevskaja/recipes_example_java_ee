@@ -1,0 +1,39 @@
+body {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    background-color: #d0e4fe;
+    text-align: center;
+    padding-top: 100px;
+    }
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.justify__content__center{
+    justify-content: center;
+}
+.conteiner{
+    width: 80%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.end {
+    margin-top: 30px;
+}
+.cl {
+    margin: 15px;
+}
+.lab1 {
+    margin-left: 32px;
+}
+.lab2{
+    margin-left: 10px;
+}
